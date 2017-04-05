@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461758947 source:c:\users\alex\desktop\programare\faculta\grafe 4\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+

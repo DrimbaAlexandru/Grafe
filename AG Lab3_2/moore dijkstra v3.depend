@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459340385 source:c:\users\alex\desktop\olimpiada\moore dijkstra v3\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1460482223 source:c:\users\alex\desktop\programare\faculta\ag lab3\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1460485275 source:c:\users\alex\desktop\git\ag lab3_2\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+

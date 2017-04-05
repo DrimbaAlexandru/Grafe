@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1458131039 source:c:\users\alex\desktop\olimpiada\ag lab1\main.cpp
+	<iostream>
+	<fstream>
+
+1458131039 source:c:\users\alex\desktop\git\ag lab1\main.cpp
+	<iostream>
+	<fstream>
+

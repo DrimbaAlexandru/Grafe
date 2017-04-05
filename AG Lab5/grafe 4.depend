@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461758947 source:c:\users\alex\desktop\programare\faculta\grafe 4\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1462534189 source:c:\users\alex\desktop\programare\faculta\ag lab4_2\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1462550194 source:c:\users\alex\desktop\programare\faculta\ag lab5\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
